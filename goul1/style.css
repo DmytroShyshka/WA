@@ -1,0 +1,37 @@
+address {
+    background-color: brown;
+    font-style: normal;
+}
+strong {
+    font-size: 125%;
+}
+
+main {
+    font-style: italic;
+
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: chartreuse;
+}
+
+#GUL {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: upper-roman;
+}
