@@ -35,3 +35,9 @@ ul {
 ol {
     list-style: upper-roman;
 }
+
+#amo:hover {
+    color: aqua;
+    font-style: italic;
+    font-size: 200%;
+}
