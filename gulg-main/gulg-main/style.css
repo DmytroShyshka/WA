@@ -1,0 +1,14 @@
+@media only screen and (max-width: 750px) {
+    body {
+        text-align: center;
+        
+        background-image: ('img/Gus.jpg');
+        background-size: cover;
+        object-fit: contain;
+    }
+}
+ 
+
+   
+    
+    
